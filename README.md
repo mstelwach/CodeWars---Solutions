@@ -1,13 +1,8 @@
-[![Build Status](https://travis-ci.org/the-zebulan/CodeWars.svg?branch=master)](https://travis-ci.org/the-zebulan/CodeWars)
-[![Coverage Status](https://coveralls.io/repos/github/the-zebulan/CodeWars/badge.svg?branch=master)](https://coveralls.io/github/the-zebulan/CodeWars?branch=master)
 [![Python Version](https://img.shields.io/badge/python-2.7-blue.svg)]()
-
+[![Python Version](https://img.shields.io/badge/python-3.4-green.svg)]()
 # Codewars - Python Solutions
 
-My solutions for Codewars problems are written using `Python 2.7` and unittests are run using pytest.
-
-* Codewars supports `Python 2.7.6` and `Python 3.4.3`.
-* Since `Python 3` support is relatively new to Codewars, a lot of the `Python` katas are only available for `Python 2`.
+My solutions for Codewars problems are written using `Python 2.7` and `Python 3.4.3` and unittests are run using pytest.
 
 ### [Profile](http://www.codewars.com/users/mstelwach)
 ![Codewars Rank](https://www.codewars.com/users/mstelwach/badges/large)
@@ -33,5 +28,4 @@ There are two main directories in this repository, `katas` and `tests`.
     ├── kyu_6
     ├── kyu_7
     ├── kyu_8
-    └── retired
 ```
