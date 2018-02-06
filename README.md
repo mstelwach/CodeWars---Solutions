@@ -9,10 +9,7 @@ My solutions for Codewars problems are written using `Python 2.7` and unittests 
 * Codewars supports `Python 2.7.6` and `Python 3.4.3`.
 * Since `Python 3` support is relatively new to Codewars, a lot of the `Python` katas are only available for `Python 2`.
 
-### [Profile](http://www.codewars.com/users/zebulan)
-![Codewars Rank](https://www.codewars.com/users/zebulan/badges/large)
-
-I am currently ranked `2 kyu` with 1000+ katas solved.
+### [Profile](http://www.codewars.com/users/mstelwach)
 
 ### [Ranking](http://www.codewars.com/about)
 ```
@@ -28,34 +25,12 @@ I am currently ranked `2 kyu` with 1000+ katas solved.
 There are two main directories in this repository, `katas` and `tests`.
 
 ```
-├── katas
-│   ├── beta
-│   ├── incomplete
-│   ├── kyu_3
-│   ├── kyu_4
-│   ├── kyu_5
-│   ├── kyu_6
-│   ├── kyu_7
-│   ├── kyu_8
-│   └── retired
 └── tests
-    ├── beta_tests
-    ├── kyu_3_tests
-    ├── kyu_4_tests
-    ├── kyu_5_tests
-    ├── kyu_6_tests
-    ├── kyu_7_tests
-    ├── kyu_8_tests
-    └── retired_tests
-```
-
-For each completed kata, there is a corresponding unittest file.
-
-```
-├── katas
-│   ├── kyu_8
-│   │   ├── add_length.py
-└── tests
-    ├── kyu_8_tests
-    │   ├── test_add_length.py
+    ├── kyu_3
+    ├── kyu_4
+    ├── kyu_5
+    ├── kyu_6
+    ├── kyu_7
+    ├── kyu_8
+    └── retired
 ```
